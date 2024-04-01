@@ -5,7 +5,7 @@
 -->
 
 I'm currently an undergraduate student at the ***University of Toronto***, pursuing a Computer Science Specialist degree.\
-My journey in tech has led me through fascinating roles, from ensuring game quality at *Uken Games Inc.* to innovating at the *MEDCVR lab*, where I explored the use of Large Language Models (LLMs) to control surgical robotics. 🤖✨
+My journey in tech has led me through fascinating roles, from ensuring game quality at ***Uken Games Inc.*** to innovating at the ***MEDCVR lab***, where I explored the use of Large Language Models (LLMs) to control surgical robotics. 🤖✨
 
 - 🔭 **What I'm working on:** Currently, I'm diving deeper into the world of artificial intelligence, LLMs (Large Language Models), and security, seeking ways to blend these technologies with human-computer interaction to create impactful solutions.
 - 🌱 **I’m learning:** My academic journey is continually evolving, with a current focus on advanced algorithms, AI, system design and security, and the ethical implications of AI.
