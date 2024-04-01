@@ -17,8 +17,8 @@ My journey in tech has led me through fascinating roles, from ensuring game qual
 - ⚡ **Fun fact:** When I'm not coding or buried in textbooks, you'll find me lost in the world of books 📚 and cooking 🍳.
 
 ### Skills:
-- Python/Java/C/C#/Matlab/R
-- Proficient in Pytorch/TensorFlow/Unity
+- Python, Java, C, C#, Matlab, R
+- Proficient in Pytorch, TensorFlow, Unity
 - Experience with prompt design and runtime deployment of chatGPT/Gemini/LlaMa
 - Experience with GPU programming
 
