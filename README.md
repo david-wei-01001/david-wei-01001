@@ -17,7 +17,7 @@ My journey in tech has led me through fascinating roles, from ensuring game qual
 - ⚡ **Fun fact:** When I'm not coding or buried in textbooks, you'll find me lost in the world of books 📚 and cooking 🍳.
 
 # Skills: 🛠️
-- **Programming Languages:** Expertise in Python 🐍, Java ☕, C/C++ ➕, C# 🔷, Matlab 🔢, and R 📊.
+- **Programming Languages:** Expertise in Python 🐍, Python Jupyter Notebook 📓, Java ☕, C/C++ ➕, C# 🔷, Matlab 🔢, and R 📊.
 - **Machine Learning & Data Science Tools:** Proficient in PyTorch 🔥, TensorFlow 🧠, NumPy 🔢, SciPy 📈, and Unity (both 2D 🕹️ and 3D 🌐).
 - **Software & Environment:** Skilled in using UNIX 🐧, Docker 🐳, TestRail 🚄, Bridge 🌉, Kibana 📊, and adept at working within Google Vertex AI ☁️ cloud environment.
 - **Robotics and Simulation:** Extensive experience with robotics software including MoveIt 🤖, ROS 🌹, and Unity Robotics Hub 🎮.
