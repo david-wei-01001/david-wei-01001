@@ -1,4 +1,4 @@
-### Hi there 👋, I'm David Wei!
+# Hi there 👋, I'm David Wei!
 
 <!--
 **david-wei-01001/david-wei-01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,13 @@ My journey in tech has led me through fascinating roles, from ensuring game qual
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** When I'm not coding or buried in textbooks, you'll find me lost in the world of books 📚 and cooking 🍳.
 
-### Skills:
-- Python, Java, C, C#, Matlab, R
-- Proficient in Pytorch, TensorFlow, Unity
-- Experience with prompt design and runtime deployment of chatGPT/Gemini/LlaMa
-- Experience with GPU programming
-
+#Skills: 🛠️
+Programming Languages: Expertise in Python 🐍, Java ☕, C/C++ ➕, C# 🔷, Matlab 🔢, and R 📊.
+Machine Learning & Data Science Tools: Proficient in PyTorch 🔥, TensorFlow 🧠, NumPy 🔢, SciPy 📈, and have hands-on experience with Unity 🎮 for simulations.
+Software & Environment: Skilled in using UNIX 🐧, Docker 🐳 for containerization, and adept at working within Google Vertex AI ☁️ cloud environment.
+Robotics and Simulation: Extensive experience with robotics software including MoveIt 🤖, ROS 🌹, and Unity Robotics Hub 🎮, enhancing capabilities in robotics applications.
+AI & Large Language Models: Practical experience in prompt design and runtime deployment with cutting-edge models like ChatGPT 💬, Gemini 🌟, and LLaMa 🦙.
+Advanced Computing: Knowledgeable in GPU programming 🖥️, harnessing the power of graphics processing for complex computations and accelerated processing.
 Looking forward to connecting with fellow tech enthusiasts and creators. Let's innovate and make a difference together!
 
 
