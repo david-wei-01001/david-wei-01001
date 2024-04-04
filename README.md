@@ -40,8 +40,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Matlab 🔢
 - Jupyter Notebook 📓
 - R 📊
-- Shell (Bash, ZSH) 🐚
-- MIPS Assembly 🧩
+- Shell 🐚 (Bash, ZSH) 
+- Assembly 🧩 (MIPS, X86)
 
 ### AI, LLMs & Robotics
 - prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙.
