@@ -23,6 +23,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - AI, gen AI, LLMs, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
+- [🤔](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
 ## 📬 How to Contact Me 
 - **Email:** davidjkwei@gmail.com
