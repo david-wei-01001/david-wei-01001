@@ -121,6 +121,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="MySQL" />
       <br>Unity
     </td>
+   <td align="center" width="96">
+        <img src="./Asset/CUDA" width="48" height="48" alt="Vue" />
+      <br>CUDA
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="Vue" />
       <br>ROS
