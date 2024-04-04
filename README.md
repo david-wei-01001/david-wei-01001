@@ -56,6 +56,12 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <a href="https://www.latex-project.org/help/documentation/">
         <img src="./Asset/latex.png" alt="icon" height="100" />
       </a>
+<a href="https://www.kernel.org/doc/html/v4.10/index.html">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" />
+      </a>
+<a href="https://github.com/facebookresearch/detectron2">
+        <img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" />
+      </a>
       
       
 ## 🧩 All Skills
