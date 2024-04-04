@@ -38,7 +38,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/python-icon.svg](https://docs.python.org/3/library/index.html)" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
@@ -55,7 +55,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/java-icon.svg](https://docs.oracle.com/en/java/)" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -110,7 +110,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Gemini
     </td>
     <td align="center" width="96"> 
-        <img src="./Asset/llama.png" width="65" height="65" alt="icon" />
+        <img src="./Asset/llama.svg" width="65" height="65" alt="icon" />
       <br>LLaMa
     </td>
     <td align="center" width="96">
