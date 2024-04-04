@@ -58,6 +58,14 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=matlab" alt="icon" width="65" height="65" />
+      <br>Matlab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="WordPress" />
+      <br>R
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -68,8 +76,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <br>Linux/Unix
+    <td align="center" width="96">
+  </tr>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=all" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
       <br>Vertex AI
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -83,11 +96,15 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" width="65" height="65" />
+      <br>Kibana
+    <td align="center" width="96">
   </tr>
  <tr>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="WordPress" />
+      <br>PyTorch
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
