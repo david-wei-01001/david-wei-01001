@@ -88,6 +88,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
+    <td align="center" width="96">
+        <img src="./Asset/moveit.png" width="65" height="65" alt="css" />
+      <br>CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
