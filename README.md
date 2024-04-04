@@ -26,8 +26,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Robotics
 
   
-## 📬  
-<h2 align="left">How to Contact Me:</h2>
+<h2 align="left">📬 How to Contact Me:</h2>
 
 <div align=center>
 
@@ -243,9 +242,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
     -->
   </tr>
- 
 </table>
-
 </div>
 
 
