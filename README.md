@@ -153,8 +153,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>MoveIt
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://github.com/ros/ros?tab=readme-ov-file">
         <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
@@ -167,6 +165,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>Detectron
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
     <a href="https://cloud.google.com/vertex-ai/docs">
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
@@ -190,8 +190,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>LLaMa
     </td>
- </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://docs.docker.com/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
