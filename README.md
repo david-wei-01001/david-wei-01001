@@ -102,7 +102,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
    <td align="center" width="96">
      <a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
-        <img src="./Asset/CUDA.png" width="65" height="65" alt="CUDA" />
+        <img src="./Asset/CUDA.jpg" width="65" height="65" alt="CUDA" />
      </a>
       <br>CUDA
     </td>
