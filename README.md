@@ -62,5 +62,5 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Bridge 🌉
 - Kibana 📊
 
-[🤔]([https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html](https://david-wei-01001.github.io/Some-Jewels/))
+[🤔](https://david-wei-01001.github.io/Some-Jewels/)
 
