@@ -37,25 +37,25 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="[https://techstack-generator.vercel.app/python-icon.svg](https://docs.python.org/3/library/index.html)" alt="icon" width="65" height="65" />
+      <a href="https://docs.python.org/3/library/index.html">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="https://devdocs.io/c/">
         <img src="./Asset/c-1.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="[https://techstack-generator.vercel.app/java-icon.svg](https://docs.oracle.com/en/java/)" alt="icon" width="65" height="65" />
+       <a href="https://docs.oracle.com/en/java/">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+       </a>
       <br>Java
     </td>
     <td align="center" width="96">
@@ -65,6 +65,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="r" />
       <br>R
+    </td>
+    <td align="center" width="96">
+        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      <br>LaTeX
     </td>
   </tr>
   <tr>
@@ -110,7 +114,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Gemini
     </td>
     <td align="center" width="96"> 
-        <img src="./Asset/llama.svg" width="65" height="65" alt="icon" />
+        <img src="./Asset/llama.png" width="65" height="65" alt="icon" />
       <br>LLaMa
     </td>
     <td align="center" width="96">
