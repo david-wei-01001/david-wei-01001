@@ -8,6 +8,7 @@ Undergraduate at the ***University of Toronto***, Computer Science Specialist\
 Researcher and proud member of ***MEDCVR lab***\
 QA Engineer at ***Uken Games Inc.***
 
+
 ## 🔭 Current Endeavour
 Currently, I'm diving deeper into the world of artificial intelligence, LLMs (Large Language Models), and security, seeking ways to blend these technologies with human-computer interaction to create impactful solutions.
 
@@ -19,12 +20,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 \
 **Fun fact:** When I'm not coding 💻 or buried in textbooks 📖, you'll find me lost in the world of books 📚 and cooking 🍳.
 
+
 ## 🧲 What Attracts Me 
 - AI, gen AI, LLMs, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
-- [🤔](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
+  
 ## 📬 How to Contact Me 
 - **Email:** davidjkwei@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/david-wei-7a3486280/)
@@ -60,6 +62,5 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Bridge 🌉
 - Kibana 📊
 
-Looking forward to connecting with fellow tech enthusiasts and creators. Let's innovate and make a difference together!
-
+[🤔](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
