@@ -43,7 +43,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src=".Asset/c-1.svg" alt="icon" width="65" height="65" />
+        <img src="./Asset/c-1.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
