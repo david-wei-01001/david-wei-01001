@@ -8,11 +8,11 @@ Undergraduate at the ***University of Toronto***, Computer Science Specialist\
 Researcher and proud member of ***MEDCVR lab***\
 QA Engineer at ***Uken Games Inc.***
 
-# 🔭 Current Endeavour
+## 🔭 Current Endeavour
 Currently, I'm diving deeper into the world of artificial intelligence, LLMs (Large Language Models), and security, seeking ways to blend these technologies with human-computer interaction to create impactful solutions.
 
 
-# 🌱 My Life
+## 🌱 My Life
 My life journey always goes out of plan, but I'm surviving it!!! 🚴‍♂️💪\
 Curious about what's the next thing gonna hit me 🧐🔮\
 Unexpected difficulties are opportunities for me to improve, be receptive, and be optimistic! 💡🌱😊\
@@ -21,18 +21,18 @@ Unexpected difficulties are opportunities for me to improve, be receptive, and b
 
 For adding a bit more flair and visual interest to your sections, you might consider these emojis:
 
-# 🧲 What Attracts Me 
+## 🧲 What Attracts Me 
 - AI, gen AI, LLMs, anything about AI
 - Security (who doesn't want to be a hacker?)
 - Robotics
 
-# 📬 How to Contact Me 
+## 📬 How to Contact Me 
 - **Email:** davidjkwei@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/david-wei-7a3486280/)
 - **Pronouns:** He/Him
 
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 ## Programming Languages
 - Python 🐍
