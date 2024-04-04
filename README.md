@@ -44,7 +44,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
     <td align="center" width="96">
       <a href="https://devdocs.io/c/">
-        <img src="./Asset/c-1.svg" alt="icon" width="48" height="48" />
+        <img src="./Asset/c-1.svg" alt="icon" width="65 height="65" />
       </a>
       <br>C
     </td>
@@ -81,11 +81,11 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
   </tr>
@@ -141,13 +141,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Vertex AI
     <td align="center" width="96">
       <a href="https://chat.openai.com/g/g-I1XNbsyDK-api-docs">
-        <img src="./Asset/gpt.png" alt="icon" width="48" height="48" />
+        <img src="./Asset/gpt.png" alt="icon" width="65" height="65" />
       </a>
       <br>ChatGPT
     </td>
     <td align="center" width="96"> 
       <a href="https://ai.google.dev/docs">
-        <img src="./Asset/gemini.png" width="48" height="48" alt="icon" />
+        <img src="./Asset/gemini.png" width="65" height="65" alt="icon" />
       </a>
       <br>Gemini
     </td>
@@ -171,7 +171,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
     <td align="center" width="96">
       <a href="https://www.testrail.com/?utm_term=testrail&utm_campaign=gg_dg_us_can_search_brand&utm_source=google&utm_medium=cpc&utm_content=brand_exact&hsa_acc=9739162558&hsa_cam=19652065350&hsa_grp=146300195455&hsa_ad=647552993164&hsa_src=g&hsa_tgt=kwd-302379004298&hsa_kw=testrail&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaJFWY5s1ZrEIan0-sNN-oZ1GmpuJsDjLdonKKQYdGHYuXQajxD39OQaAkACEALw_wcB">
-        <img src="./Asset/testrail.png" width="48" height="48" alt="testrail" />
+        <img src="./Asset/testrail.png" width="65" height="65" alt="testrail" />
       </a>
       <br>TestRail
     </td>
