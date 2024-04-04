@@ -90,12 +90,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>R
     </td>
-    <td align="center" width="96">
-      <a href="https://devdocs.io/bash/">
-        <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
-      </a>
-      <br>Shell
-    </td>
     <td align="center"  width="96">
       <a href="https://html.spec.whatwg.org/multipage/">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -213,6 +207,12 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
       </a>
       <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <a href="https://devdocs.io/bash/">
+        <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
+      </a>
+      <br>Shell
     </td>
     <td align="center" width="96">
       <a href="https://www.latex-project.org/help/documentation/">
