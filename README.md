@@ -48,6 +48,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>C
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
      <td align="center" width="96">
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -59,12 +63,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
        </a>
       <br>Java
-    </td>
-    <td align="center" width="96">
-     <a href="https://docs.unity3d.com/Manual/index.html">
-        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
-     </a>
-      <br>Unity
     </td>
     <td align="center" width="96">
       <a href="https://www.mathworks.com/help/matlab/">
@@ -87,6 +85,12 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="96">
+     <a href="https://docs.unity3d.com/Manual/index.html">
+        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
+     </a>
+      <br>Unity
     </td>
     <td align="center" width="96">
       <a href="https://pytorch.org/docs/stable/index.html">
