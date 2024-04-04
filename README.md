@@ -81,11 +81,15 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   </tr>
   <tr>
     <td align="center"  width="96">
+      <a href="https://html.spec.whatwg.org/multipage/">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
+      <a href="https://www.w3.org/Style/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+      </a>
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -173,13 +177,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <a href="https://devdocs.io/bash/">
         <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
       </a>
-      <br>Shell (Bash, Zsh)
+      <br>Shell
     </td>
     <td align="center" width="96">
       <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
         <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
       </a>
-      <br>MIPS Assembly
+      <br>Assembly
     </td>
     <td align="center" width="96">
       <a href="https://www.latex-project.org/help/documentation/">
@@ -210,37 +214,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 </table>
 <br><br>
 
-
 </div>
-
-
-### Programming Languages
-- Python 🐍 (PyTorch, TensorFlow, NumPy, SciPy)
-- Java ☕
-- C/C++ ➕
-- C# 🔷
-- Matlab 🔢
-- Jupyter Notebook 📓
-- R 📊
-- Shell 🐚 (Bash, ZSH) 
-- Assembly 🧩 (MIPS, X86)
-
-### AI, LLMs & Robotics
-- prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙
-- Implementation and deployment of Detectron2 📸
-- CUDA and GPU programming 🖥️
-- Unity Robotics Hub 🎮
-- MoveIt 🤖
-- ROS 🌹
-
-### Software & Environment
-- Unity (both 2D 🕹️ and 3D 🌐).
-- Linux/ Unix 🐧
-- Google Vertex AI ☁️
-- Docker 🐳
-- TestRail 🚄
-- Bridge 🌉
-- Kibana 📊
-
 [🤔](https://david-wei-01001.github.io/Some-Jewels/)
 
