@@ -81,7 +81,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Unity
     </td>
    <td align="center" width="96">
-        <img src="./Asset/CUDA.jpg" width="48" height="48" alt="CUDA" />
+        <img src="./Asset/CUDA.png" width="48" height="48" alt="CUDA" />
       <br>CUDA
     </td>
     <td align="center" width="96">
@@ -114,12 +114,12 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Kibana
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="vim" />
-      <br>Vim
+        <img src="./Asset/numpy.png" width="48" height="48" alt="numpy" />
+      <br>NumPy
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
+        <img src="./Asset/testrail.png" width="48" height="48" alt="testrail" />
+      <br>TestRail
     </td>
   </tr>
  
