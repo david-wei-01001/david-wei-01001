@@ -56,7 +56,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
     <td align="center" width="96">
       <a href="https://devdocs.io/c/">
-        <img src="./Asset/c-1.svg" alt="icon" width="65 height="65" />
+        <img src="./Asset/c-1.svg" alt="icon" width="65" height="65" />
       </a>
       <br>C
     </td>
