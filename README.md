@@ -32,7 +32,7 @@ For adding a bit more flair and visual interest to your sections, you might cons
 - **Pronouns:** He/Him
 
 
-# Skills: 🛠️
+# 🛠️ Skills
 
 ## Programming Languages
 - Python 🐍
