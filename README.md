@@ -63,29 +63,29 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Matlab
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="r" />
+        <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="r" />
       <br>R
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
       <br>PyTorch
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TS" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TS" />
       <br>TensorFlow
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
       <br>Unity
     </td>
    <td align="center" width="96">
-        <img src="./Asset/CUDA.png" width="48" height="48" alt="CUDA" />
+        <img src="./Asset/CUDA.png" width="65" height="65" alt="CUDA" />
       <br>CUDA
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
+        <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
       <br>ROS
     </td>
  </tr>
@@ -102,7 +102,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -114,11 +114,11 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Kibana
     </td>
     <td align="center" width="96">
-        <img src="./Asset/numpy.png" width="48" height="48" alt="numpy" />
+        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
       <br>NumPy
     </td>
     <td align="center" width="96">
-        <img src="./Asset/testrail.png" width="48" height="48" alt="testrail" />
+        <img src="./Asset/testrail.png" width="65" height="65" alt="testrail" />
       <br>TestRail
     </td>
   </tr>
