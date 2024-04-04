@@ -111,7 +111,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>MoveIt
     </td>
     <td align="center" width="96">
-        <img src="./Asset/detectron2.jpg" width="65" height="65" alt="detectron2" />
+        <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
       <br>Detectron 2
     </td>
   </tr>
@@ -134,9 +134,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>Linux/Unix
     </td>
- </tr>
-  <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
     <a href="https://cloud.google.com/vertex-ai/docs">
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
     </a>
@@ -158,6 +156,14 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="./Asset/llama.png" width="65" height="65" alt="icon" />
       </a>
       <br>LLaMa
+    </td>
+ </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.latex-project.org/help/documentation/">
+        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>LaTeX
     </td>
     <td align="center" width="96">
       <a href="https://docs.docker.com/">
