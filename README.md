@@ -32,36 +32,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - **Pronouns:** He/Him
 
 # 🛠️ Main Skills #
-<a href="https://docs.python.org/3/library/index.html">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" />
-      </a>
-<a href="https://devdocs.io/c/">
-        <img src="./Asset/c-1.svg" alt="icon" height="100" />
-      </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
-       </a>
-<a href="https://docs.unity3d.com/Manual/index.html">
-        <img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" />
-     </a>
-<a href="https://pytorch.org/docs/stable/index.html">
-        <img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" />
-      </a>
-<a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
-        <img src="./Asset/CUDA.jpg"height="100" alt="CUDA" />
-     </a>
-<a href="https://chat.openai.com/g/g-I1XNbsyDK-api-docs">
-        <img src="./Asset/gpt.png" alt="icon" height="100" />
-      </a>
-<a href="https://www.latex-project.org/help/documentation/">
-        <img src="./Asset/latex.png" alt="icon" height="100" />
-      </a>
-<a href="https://www.kernel.org/doc/html/v4.10/index.html">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" />
-      </a>
-<a href="https://github.com/facebookresearch/detectron2">
-        <img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" />
-      </a>
+  <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
+  <a><img src="./Asset/c-1.svg" alt="icon" height="100" /></a>
+  <a><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></a>
+  <a><img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" /></a>
+  <a><img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" /></a>
+  <a><img src="./Asset/CUDA.jpg" height="100" alt="CUDA" /></a>
+  <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
+  <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
+  <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
+  <a><img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" /></a>
       
       
 ## 🧩 All Skills
