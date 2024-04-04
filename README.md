@@ -66,17 +66,30 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="r" />
       <br>R
     </td>
-    
   </tr>
   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
+      <br>PyTorch
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TS" />
+      <br>TensorFlow
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
+   <td align="center" width="96">
+        <img src="./Asset/CUDA.jpg" width="48" height="48" alt="CUDA" />
+      <br>CUDA
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
+      <br>ROS
     </td>
+ </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
       <br>Linux/Unix
@@ -109,28 +122,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>VSCode
     </td>
   </tr>
- <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
-      <br>PyTorch
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TS" />
-      <br>TensorFlow
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
-    </td>
-   <td align="center" width="96">
-        <img src="./Asset/CUDA.jpg" width="48" height="48" alt="CUDA" />
-      <br>CUDA
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
-      <br>ROS
-    </td>
- </tr>
+ 
 </table>
 <br><br>
 
