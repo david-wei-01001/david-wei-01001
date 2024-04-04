@@ -88,12 +88,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
       <br>ROS
     </td>
- </tr>
-  <tr>
+    <td align="center" width="96">
+        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
+      <br>NumPy
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
       <br>Linux/Unix
     </td>
+ </tr>
+  <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
       <br>Vertex AI
@@ -112,10 +116,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" width="65" height="65" />
       <br>Kibana
-    </td>
-    <td align="center" width="96">
-        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
-      <br>NumPy
     </td>
     <td align="center" width="96">
         <img src="./Asset/testrail.png" width="65" height="65" alt="testrail" />
