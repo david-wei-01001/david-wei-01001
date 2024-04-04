@@ -33,20 +33,15 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 ## 🛠️ Skills
 
 ### Programming Languages
-- Python 🐍
+- Python 🐍 (PyTorch, TensorFlow, NumPy, SciPy)
 - Java ☕
 - C/C++ ➕
 - C# 🔷
 - Matlab 🔢
 - Jupyter Notebook 📓
 - R 📊
-
-### Tools & Packages
-- Unity (both 2D 🕹️ and 3D 🌐).
-- PyTorch 🔥
-- TensorFlow 🧠
-- NumPy 🔢
-- SciPy 📈
+- Shell (Bash, ZSH) 🐚
+- MIPS Assembly 🧩
 
 ### AI, LLMs & Robotics
 - prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙.
@@ -56,7 +51,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - ROS 🌹
 
 ### Software & Environment
-- UNIX 🐧
+- Unity (both 2D 🕹️ and 3D 🌐).
+- Linux/ Unix 🐧
 - Google Vertex AI ☁️
 - Docker 🐳
 - TestRail 🚄
