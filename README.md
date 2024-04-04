@@ -114,10 +114,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="./Asset/moveit.jpg" width="65" height="65" alt="MoveIt" />
       <br>MoveIt
     </td>
-    <td align="center" width="96">
-        <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
-      <br>Detectron 2
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -163,6 +159,18 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
  </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
+      <br>Detectron 2
+    </td>
+    <td align="center" width="96">
+        <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
+      <br>Shell
+    </td>
+    <td align="center" width="96">
+        <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
+      <br>MIPS Assembly
+    </td>
     <td align="center" width="96">
       <a href="https://www.latex-project.org/help/documentation/">
         <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
