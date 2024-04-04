@@ -79,8 +79,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
       <br>Linux/Unix
-    <td align="center" width="96">
-  </tr>
+    </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
       <br>Vertex AI
@@ -99,7 +98,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" width="65" height="65" />
       <br>Kibana
-    <td align="center" width="96">
+    </td>
   </tr>
  <tr>
     <td align="center" width="96">
