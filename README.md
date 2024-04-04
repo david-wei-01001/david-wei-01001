@@ -251,13 +251,5 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 
 
-
-<br><br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=html&theme=dracula"/>
-  </P>
-  <br><br>
-
-
 [🤔](https://david-wei-01001.github.io/Some-Jewels/)
 
