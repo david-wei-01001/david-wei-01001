@@ -89,7 +89,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="./Asset/moveit.png" width="65" height="65" alt="css" />
+        <img src="./Asset/moveit.jpg" width="65" height="65" alt="MoveIt" />
       <br>MoveIt
     </td>
   </tr>
@@ -126,7 +126,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
     <td align="center" width="96">
       <a href="https://numpy.org/doc/">
-        <img src="./Asset/numpy.png" width="48" height="48" alt="numpy" />
+        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
       </a>
       <br>NumPy
     </td>
