@@ -18,9 +18,6 @@ Curious about what's the next thing gonna hit me 🧐🔮\
 Unexpected difficulties are opportunities for me to improve, be receptive, and be optimistic! 💡🌱😊\
 - **Fun fact:** When I'm not coding 💻 or buried in textbooks 📖, you'll find me lost in the world of books 📚 and cooking 🍳.
 
-
-For adding a bit more flair and visual interest to your sections, you might consider these emojis:
-
 ## 🧲 What Attracts Me 
 - AI, gen AI, LLMs, anything about AI
 - Security (who doesn't want to be a hacker?)
