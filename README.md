@@ -183,7 +183,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <a href="https://github.com/facebookresearch/detectron2">
         <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
       </a>
-      <br>Detectron 2
+      <br>Detectron
     </td>
     <td align="center" width="96">
       <a href="https://devdocs.io/bash/">
