@@ -61,6 +61,12 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Java
     </td>
     <td align="center" width="96">
+     <a href="https://docs.unity3d.com/Manual/index.html">
+        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
+     </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
       <a href="https://www.mathworks.com/help/matlab/">
         <img src="https://skillicons.dev/icons?i=matlab" alt="icon" width="65" height="65" />
       </a>
@@ -71,12 +77,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="r" />
       </a>
       <br>R
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.latex-project.org/help/documentation/">
-        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
-      </a>
-      <br>LaTeX
     </td>
   </tr>
   <tr>
@@ -89,28 +89,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="./Asset/moveit.jpg" width="65" height="65" alt="MoveIt" />
-      <br>MoveIt
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://pytorch.org/docs/stable/index.html">
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
       </a>
       <br>PyTorch
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.tensorflow.org/api_docs">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TS" />
       </a>
       <br>TensorFlow
-    </td>
-   <td align="center" width="96">
-     <a href="https://docs.unity3d.com/Manual/index.html">
-        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
-     </a>
-      <br>Unity
     </td>
    <td align="center" width="96">
      <a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
@@ -118,6 +106,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
      </a>
       <br>CUDA
     </td>
+    <td align="center" width="96">
+        <img src="./Asset/moveit.jpg" width="65" height="65" alt="MoveIt" />
+      <br>MoveIt
+    </td>
+    <td align="center" width="96">
+        <img src="./Asset/detectron2.jpg" width="65" height="65" alt="detectron2" />
+      <br>Detectron 2
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://github.com/ros/ros?tab=readme-ov-file">
         <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
