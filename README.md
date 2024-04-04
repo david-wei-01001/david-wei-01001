@@ -21,7 +21,7 @@ Unexpected difficulties are opportunities for me to improve, be receptive, and b
 
 ## 🧲 What Attracts Me 
 - AI, gen AI, LLMs, anything about AI
-- Security (who doesn't want to be a hacker?)
+- Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
 
 ## 📬 How to Contact Me 
