@@ -90,8 +90,24 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>R
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <a href="https://devdocs.io/bash/">
+        <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
+      </a>
+      <br>Shell
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
+        <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
+      </a>
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.latex-project.org/help/documentation/">
+        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>LaTeX
+    </td>
     <td align="center"  width="96">
       <a href="https://html.spec.whatwg.org/multipage/">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -104,6 +120,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>CSS
     </td>
+    
+  </tr>
+  <tr>
     <td align="center" width="96">
      <a href="https://docs.unity3d.com/Manual/index.html">
         <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
@@ -184,24 +203,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
       </a>
       <br>Detectron
-    </td>
-    <td align="center" width="96">
-      <a href="https://devdocs.io/bash/">
-        <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
-      </a>
-      <br>Shell
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
-        <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
-      </a>
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.latex-project.org/help/documentation/">
-        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
-      </a>
-      <br>LaTeX
     </td>
     <td align="center" width="96">
       <a href="https://docs.docker.com/">
