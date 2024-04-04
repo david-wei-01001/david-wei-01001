@@ -28,7 +28,7 @@ For adding a bit more flair and visual interest to your sections, you might cons
 
 # 📬 How to Contact Me 
 - **Email:** davidjkwei@gmail.com
-- **LinkedIn:** [davidjkwei](https://www.linkedin.com/in/david-wei-7a3486280/)
+- [LinkedIn](https://www.linkedin.com/in/david-wei-7a3486280/)
 - **Pronouns:** He/Him
 
 
