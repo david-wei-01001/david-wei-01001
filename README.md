@@ -99,27 +99,31 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" width="65" height="65" />
       <br>Kibana
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="PostgreSQL" />
+      <br>Vim
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="PostgreSQL" />
+      <br>VSCode
+    </td>
   </tr>
  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="WordPress" />
       <br>PyTorch
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
+      <br>TensorFlow
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="MySQL" />
+      <br>Unity
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="Vue" />
+      <br>ROS
     </td>
  </tr>
 </table>
