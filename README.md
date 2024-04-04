@@ -38,7 +38,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/python-icon.svg](https://docs.python.org/3/library/index.html)" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
@@ -55,7 +55,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/java-icon.svg](https://docs.oracle.com/en/java/)" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -102,12 +102,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
       <br>Vertex AI
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+        <img src="./Asset/gpt.png" alt="icon" width="65" height="65" />
+      <br>ChatGPT
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br>Git
+        <img src="./Asset/gemini.png" width="65" height="65" alt="icon" />
+      <br>Gemini
+    </td>
+    <td align="center" width="96"> 
+        <img src="./Asset/llama.svg" width="65" height="65" alt="icon" />
+      <br>LLaMa
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
