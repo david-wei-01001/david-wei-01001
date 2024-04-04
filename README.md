@@ -63,7 +63,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Matlab
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="WordPress" />
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="r" />
       <br>R
     </td>
     <td align="center"  width="96">
@@ -100,33 +100,33 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Kibana
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="vim" />
       <br>Vim
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
   </tr>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="WordPress" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
       <br>PyTorch
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TS" />
       <br>TensorFlow
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
    <td align="center" width="96">
-        <img src="./Asset/CUDA" width="48" height="48" alt="Vue" />
+        <img src="./Asset/CUDA.jpeg" width="48" height="48" alt="CUDA" />
       <br>CUDA
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="Vue" />
+        <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
       <br>ROS
     </td>
  </tr>
