@@ -80,6 +80,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
   </tr>
   <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://pytorch.org/docs/stable/index.html">
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
