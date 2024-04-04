@@ -34,7 +34,7 @@ For adding a bit more flair and visual interest to your sections, you might cons
 
 ## 🛠️ Skills
 
-## Programming Languages
+### Programming Languages
 - Python 🐍
 - Java ☕
 - C/C++ ➕
@@ -43,21 +43,21 @@ For adding a bit more flair and visual interest to your sections, you might cons
 - Jupyter Notebook 📓
 - R 📊
 
-## Tools & Packages
+### Tools & Packages
 - Unity (both 2D 🕹️ and 3D 🌐).
 - PyTorch 🔥
 - TensorFlow 🧠
 - NumPy 🔢
 - SciPy 📈
 
-## AI, LLMs & Robotics
+### AI, LLMs & Robotics
 - prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙.
 - CUDA and GPU programming 🖥️
 - Unity Robotics Hub 🎮
 - MoveIt 🤖
 - ROS 🌹
 
-## Software & Environment
+### Software & Environment
 - UNIX 🐧
 - Google Vertex AI ☁️
 - Docker 🐳
