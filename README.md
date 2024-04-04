@@ -32,16 +32,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - **Pronouns:** He/Him
 
 # 🛠️ Main Skills #
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" />
-  <img src="./Asset/c-1.svg" alt="icon" height="100" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" />
-  <img src="./Asset/CUDA.jpg"height="100" alt="CUDA" />
-  <img src="./Asset/gpt.png" alt="icon" height="100" />
-  <img src="./Asset/latex.png" alt="icon" height="100" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" />
-  <img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" />
+  <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
+  <a><img src="./Asset/c-1.svg" alt="icon" height="100" /></a>
+  <a><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></a>
+  <a><img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" /></a>
+  <a><img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" /></a>
+  <a><img src="./Asset/CUDA.jpg"height="100" alt="CUDA" /></a>
+  <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
+  <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
+  <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
+  <a><img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" /></a>
       
       
 ## 🧩 All Skills
