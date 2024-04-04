@@ -37,7 +37,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   <a><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></a>
   <a><img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" /></a>
   <a><img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" /></a>
-  <a><img src="./Asset/CUDA.jpg"height="100" alt="CUDA" /></a>
+  <a><img src="./Asset/CUDA.jpg" "height="100" alt="CUDA" /></a>
   <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
   <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
   <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
