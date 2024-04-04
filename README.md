@@ -4,9 +4,8 @@
 **david-wei-01001/david-wei-01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Undergraduate at the ***University of Toronto***, Computer Science Specialist\
-Researcher and proud member of ***MEDCVR lab***\
-QA Engineer at ***Uken Games Inc.***
+Undergraduate at the [University of Toronto](https://www.utoronto.ca/), Computer Science Specialist\
+Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken Games Inc.](https://uken.com/)
 
 
 ## 🔭 Current Endeavour
