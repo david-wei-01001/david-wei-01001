@@ -49,7 +49,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>C
     </td>
     <td align="center" width="96">
+      <a href="https://devdocs.io/cpp/">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>C++
     </td>
      <td align="center" width="96">
@@ -111,7 +113,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>CUDA
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/ros-planning/moveit">
         <img src="./Asset/moveit.jpg" width="65" height="65" alt="MoveIt" />
+      </a>
       <br>MoveIt
     </td>
   </tr>
@@ -160,15 +164,21 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
  </tr>
   <tr>
     <td align="center" width="96">
+      <a href="https://github.com/facebookresearch/detectron2">
         <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
+      </a>
       <br>Detectron 2
     </td>
     <td align="center" width="96">
+      <a href="https://devdocs.io/bash/">
         <img src="./Asset/shell.png" width="65" height="65" alt="Shell" />
-      <br>Shell
+      </a>
+      <br>Shell (Bash, Zsh)
     </td>
     <td align="center" width="96">
+      <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
         <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
+      </a>
       <br>MIPS Assembly
     </td>
     <td align="center" width="96">
