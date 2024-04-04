@@ -96,18 +96,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>Shell
     </td>
-    <td align="center" width="96">
-      <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
-        <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
-      </a>
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.latex-project.org/help/documentation/">
-        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
-      </a>
-      <br>LaTeX
-    </td>
     <td align="center"  width="96">
       <a href="https://html.spec.whatwg.org/multipage/">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -119,9 +107,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       </a>
       <br>CSS
-    </td>
-    
+    </td>  
   </tr>
+  
   <tr>
     <td align="center" width="96">
      <a href="https://docs.unity3d.com/Manual/index.html">
@@ -140,6 +128,18 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TS" />
       </a>
       <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="https://numpy.org/doc/">
+        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.kernel.org/doc/html/v4.10/index.html">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      </a>
+      <br>Linux/Unix
     </td>
    <td align="center" width="96">
      <a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
@@ -162,16 +162,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <br>ROS
     </td>
     <td align="center" width="96">
-      <a href="https://numpy.org/doc/">
-        <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
+      <a href="https://github.com/facebookresearch/detectron2">
+        <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
       </a>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.kernel.org/doc/html/v4.10/index.html">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
-      </a>
-      <br>Linux/Unix
+      <br>Detectron
     </td>
     <td align="center" width="96">
     <a href="https://cloud.google.com/vertex-ai/docs">
@@ -199,12 +193,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
  </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://github.com/facebookresearch/detectron2">
-        <img src="./Asset/detectron2.png" width="65" height="65" alt="detectron2" />
-      </a>
-      <br>Detectron
-    </td>
-    <td align="center" width="96">
       <a href="https://docs.docker.com/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       </a>
@@ -221,6 +209,18 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="./Asset/testrail.png" width="65" height="65" alt="testrail" />
       </a>
       <br>TestRail
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">
+        <img src="./Asset/asm.png" width="65" height="65" alt="ASM" />
+      </a>
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.latex-project.org/help/documentation/">
+        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>LaTeX
     </td>
   </tr>
  
