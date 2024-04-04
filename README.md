@@ -33,7 +33,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 
 ## 🛠️ Skills
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -214,6 +213,5 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 </table>
 <br><br>
 
-</div>
 [🤔](https://david-wei-01001.github.io/Some-Jewels/)
 
