@@ -122,7 +122,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Unity
     </td>
    <td align="center" width="96">
-        <img src="./Asset/CUDA.jpeg" width="48" height="48" alt="CUDA" />
+        <img src="./Asset/CUDA.jpg" width="48" height="48" alt="CUDA" />
       <br>CUDA
     </td>
     <td align="center" width="96">
