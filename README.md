@@ -7,6 +7,19 @@
 Undergraduate at the [University of Toronto](https://www.utoronto.ca/), Computer Science Specialist\
 Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken Games Inc.](https://uken.com/)
 
+## 🛠️ Main Skills #
+  <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
+  <a><img src="./Asset/c-1.svg" alt="icon" height="100" /></a>
+  <a><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></a>
+  <a><img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" /></a>
+  <a><img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" /></a>
+  <a><img src="./Asset/CUDA.jpg" height="100" alt="CUDA" /></a>
+  <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
+  <a><img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" /></a>
+  <!--
+  <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
+  <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
+  -->
 
 ## 🔭 Current Endeavour
 Currently, I'm diving deeper into the world of artificial intelligence, LLMs (Large Language Models), and security, seeking ways to blend these technologies with human-computer interaction to create impactful solutions.
@@ -47,19 +60,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   
 </div>
 
-# 🛠️ Main Skills #
-  <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
-  <a><img src="./Asset/c-1.svg" alt="icon" height="100" /></a>
-  <a><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></a>
-  <a><img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" /></a>
-  <a><img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" /></a>
-  <a><img src="./Asset/CUDA.jpg" height="100" alt="CUDA" /></a>
-  <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
-  <a><img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" /></a>
-  <!--
-  <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
-  <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
-  -->
+
       
       
 ## 🧩 All Skills
