@@ -232,15 +232,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>Shell
     </td>
-    <!--
-    <td align="center" width="96">
-      <a href="https://www.latex-project.org/help/documentation/">
-        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
-      </a>
-      <br>LaTeX
-    </td>
-
-    -->
+   
   </tr>
 </table>
 </div>
