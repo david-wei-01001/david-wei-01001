@@ -90,7 +90,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     </td>
     <td align="center" width="96">
         <img src="./Asset/moveit.png" width="65" height="65" alt="css" />
-      <br>CSS
+      <br>MoveIt
     </td>
   </tr>
   <tr>
