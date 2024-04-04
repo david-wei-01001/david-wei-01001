@@ -31,8 +31,23 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - [LinkedIn](https://www.linkedin.com/in/david-wei-7a3486280/)
 - **Pronouns:** He/Him
 
-
-## 🛠️ Skills
+# 🛠️ Main Skills #
+<a href="https://docs.python.org/3/library/index.html">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" />
+      </a>
+<a href="https://devdocs.io/c/">
+        <img src="./Asset/c-1.svg" alt="icon" height="100" />
+      </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" height="100" />
+       </a>
+<a href="https://docs.unity3d.com/Manual/index.html">
+        <img src="https://skillicons.dev/icons?i=unity" height="100" alt="Unity" />
+     </a>
+<a href="https://pytorch.org/docs/stable/index.html">
+        <img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" />
+      </a>
+## 🧩 All Skills
 <table align="center">
   <tr>
     <td align="center" width="96">
