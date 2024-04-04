@@ -21,7 +21,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 
 ## 🧲 What Attracts Me 
-- AI, gen AI, LLMs, anything about AI
+- AI, gen AI, LLMs, CV, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
 
