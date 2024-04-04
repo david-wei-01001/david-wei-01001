@@ -24,7 +24,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - AI, gen AI, LLMs, CV, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
-- [Tactical Nuclear GPU]([https://www.youtube.com/watch?v=mOkEllAgfxw](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
+- [Tactical Nuclear GPU](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
   
 <h2 align="left">📬 How to Contact Me:</h2>
 
