@@ -49,7 +49,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>C
     </td>
      <td align="center" width="96">
+       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+       </a>
       <br>C#
     </td>
     <td align="center" width="96">
@@ -59,74 +61,108 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Java
     </td>
     <td align="center" width="96">
+      <a href="https://www.mathworks.com/help/matlab/">
         <img src="https://skillicons.dev/icons?i=matlab" alt="icon" width="65" height="65" />
+      </a>
       <br>Matlab
     </td>
     <td align="center" width="96">
+      <a href="https://www.r-project.org/other-docs.html">
         <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="r" />
+      </a>
       <br>R
     </td>
     <td align="center" width="96">
+      <a href="https://www.latex-project.org/help/documentation/">
         <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      </a>
       <br>LaTeX
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="https://pytorch.org/docs/stable/index.html">
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
+      </a>
       <br>PyTorch
     </td>
    <td align="center" width="96">
+      <a href="https://www.tensorflow.org/api_docs">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TS" />
+      </a>
       <br>TensorFlow
     </td>
    <td align="center" width="96">
+     <a href="https://docs.unity3d.com/Manual/index.html">
         <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
+     </a>
       <br>Unity
     </td>
    <td align="center" width="96">
+     <a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
         <img src="./Asset/CUDA.png" width="65" height="65" alt="CUDA" />
+     </a>
       <br>CUDA
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/ros/ros?tab=readme-ov-file">
         <img src="https://skillicons.dev/icons?i=ros" width="65" height="65" alt="ROS" />
-      <br>ROS
+      </a>
+        <br>ROS
     </td>
     <td align="center" width="96">
+      <a href="https://numpy.org/doc/">
         <img src="./Asset/numpy.png" width="65" height="65" alt="numpy" />
+      </a>
       <br>NumPy
     </td>
     <td align="center" width="96">
+      <a href="https://www.kernel.org/doc/html/v4.10/index.html">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      </a>
       <br>Linux/Unix
     </td>
  </tr>
   <tr>
   <td align="center" width="96">
+    <a href="https://cloud.google.com/vertex-ai/docs">
         <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+    </a>
       <br>Vertex AI
     <td align="center" width="96">
+      <a href="https://chat.openai.com/g/g-I1XNbsyDK-api-docs">
         <img src="./Asset/gpt.png" alt="icon" width="65" height="65" />
+      </a>
       <br>ChatGPT
     </td>
     <td align="center" width="96"> 
+      <a href="https://ai.google.dev/docs">
         <img src="./Asset/gemini.png" width="65" height="65" alt="icon" />
+      </a>
       <br>Gemini
     </td>
     <td align="center" width="96"> 
+      <a href="https://llama.meta.com/">
         <img src="./Asset/llama.png" width="65" height="65" alt="icon" />
+      </a>
       <br>LLaMa
     </td>
     <td align="center" width="96">
+      <a href="https://docs.docker.com/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Docker
     </td>
     <td align="center" width="96">
+      <a href="https://www.elastic.co/kibana?utm_campaign=Google-B-AMER-CA-Exact&utm_content=Brand-Core-Kibana&utm_source=google&utm_medium=cpc&device=c&utm_term=kibana&gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaIb99xi305fhe4U3tNTASN4C4x10U2nLuMZx6IS8AZLDsDVDpmlKqgaAtyHEALw_wcB">
         <img src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" width="65" height="65" />
+      </a>
       <br>Kibana
     </td>
     <td align="center" width="96">
+      <a href="https://www.testrail.com/?utm_term=testrail&utm_campaign=gg_dg_us_can_search_brand&utm_source=google&utm_medium=cpc&utm_content=brand_exact&hsa_acc=9739162558&hsa_cam=19652065350&hsa_grp=146300195455&hsa_ad=647552993164&hsa_src=g&hsa_tgt=kwd-302379004298&hsa_kw=testrail&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaJFWY5s1ZrEIan0-sNN-oZ1GmpuJsDjLdonKKQYdGHYuXQajxD39OQaAkACEALw_wcB">
         <img src="./Asset/testrail.png" width="65" height="65" alt="testrail" />
+      </a>
       <br>TestRail
     </td>
   </tr>
