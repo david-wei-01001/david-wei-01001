@@ -46,7 +46,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Assembly 🧩 (MIPS, X86)
 
 ### AI, LLMs & Robotics
-- prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙.
+- prompt design and runtime deployment of ChatGPT 💬, Gemini 🌟, and LLaMa 🦙
+- Implementation and deployment of Detectron2 📸
 - CUDA and GPU programming 🖥️
 - Unity Robotics Hub 🎮
 - MoveIt 🤖
