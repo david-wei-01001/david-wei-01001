@@ -15,7 +15,7 @@ Currently, I'm diving deeper into the world of artificial intelligence, LLMs (La
 ## 🌱 My Life
 My life journey always goes out of plan, but I'm surviving it!!! 🚴‍♂️💪\
 Curious about what's the next thing gonna hit me 🧐🔮\
-Unexpected difficulties are opportunities for me to improve, be receptive, and be optimistic! 💡🌱😊\
+Unexpected tasks are opportunities for me to improve, be receptive, and be optimistic! 💡🌱😊\
 \
 **Fun fact:** When I'm not coding 💻 or buried in textbooks 📖, you'll find me lost in the world of books 📚 and cooking 🍳.
 
