@@ -26,10 +26,27 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Robotics
 
   
-## 📬 How to Contact Me 
-- **Email:** davidjkwei@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/david-wei-7a3486280/)
-- **Pronouns:** He/Him
+## 📬  
+<h2 align="left">How to Contact Me:</h2>
+
+<div align=center>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wei-7a3486280/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/david-wei-01001)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjkwei@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24015457/jiankun-wei)
+[![Reddit](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Comprehensive_Task12/)
+
+<!--
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Research_Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]()
+[![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]()
+[![Google_Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]()
+-->
+  
+</div>
 
 # 🛠️ Main Skills #
   <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
@@ -40,6 +57,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   <a><img src="./Asset/CUDA.jpg" height="100" alt="CUDA" /></a>
   <a><img src="https://skillicons.dev/icons?i=linux" alt="icon" width="100" height="100" /></a>
   <a><img src="./Asset/detectron2.png" width="100" height="100" alt="detectron2" /></a>
+  <!--
+  <a><img src="./Asset/gpt.png" alt="icon" height="100" /></a>
+  <a><img src="./Asset/latex.png" alt="icon" height="100" /></a>
+  -->
       
       
 ## 🧩 All Skills
@@ -212,6 +233,15 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       </a>
       <br>Shell
     </td>
+    <!--
+    <td align="center" width="96">
+      <a href="https://www.latex-project.org/help/documentation/">
+        <img src="./Asset/latex.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>LaTeX
+    </td>
+
+    -->
   </tr>
  
 </table>
