@@ -47,6 +47,17 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <a href="https://pytorch.org/docs/stable/index.html">
         <img src="https://skillicons.dev/icons?i=pytorch" height="100" alt="pytorch" />
       </a>
+<a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html">
+        <img src="./Asset/CUDA.jpg"height="100" alt="CUDA" />
+     </a>
+<a href="https://chat.openai.com/g/g-I1XNbsyDK-api-docs">
+        <img src="./Asset/gpt.png" alt="icon" height="100" />
+      </a>
+<a href="https://www.latex-project.org/help/documentation/">
+        <img src="./Asset/latex.png" alt="icon" height="100" />
+      </a>
+      
+      
 ## 🧩 All Skills
 <table align="center">
   <tr>
