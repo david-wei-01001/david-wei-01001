@@ -5,7 +5,8 @@
 -->
 
 Undergraduate at the [University of Toronto](https://www.utoronto.ca/), Computer Science Specialist\
-Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken Games Inc.](https://uken.com/)\
+Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken Games Inc.](https://uken.com/)
+----
 **Tech Enthusiast | Programmer | AI Researcher | Book Lover | Amateur Philosopher**
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
