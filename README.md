@@ -137,7 +137,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <a href="https://www.tensorflow.org/api_docs">
+      <a href="https://github.com/tensorflow/tensorflow">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TS" />
       </a>
       <br>TensorFlow
