@@ -10,7 +10,7 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
 **Tech Enthusiast | Programmer | AI Researcher | Book Lover | Amateur Philosopher**
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
-> As I sail through my years, on the tides of ceaseless change
+> With which I sail through my years, on the tides of ceaseless change
 > <div align="center">- David Wei</div>
 
 ## 🛠️ Main Skills #
