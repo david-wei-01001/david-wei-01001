@@ -9,6 +9,7 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
 > As I sail through my years, on the tides of ceaseless change
+> > <div align="right">- David Wei</div>
 
 ## 🛠️ Main Skills #
   <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="100" /></a>
