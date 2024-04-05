@@ -131,7 +131,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       <br>Unity
     </td>
     <td align="center" width="96">
-      <a href="https://pytorch.org/docs/stable/index.html">
+      <a href="https://github.com/pytorch/pytorch">
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
       </a>
       <br>PyTorch
