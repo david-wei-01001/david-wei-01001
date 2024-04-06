@@ -46,7 +46,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - [Tactical Nuclear Visual Cards](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
   
 <h2 align="left">📬 How to Contact Me:</h2>
-
+Discord: davidwei01001
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wei-7a3486280/)
