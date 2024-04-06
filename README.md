@@ -54,9 +54,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjkwei@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24015457/jiankun-wei)
 [![Reddit](https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Comprehensive_Task12/)
+[![Aspecta](https://img.shields.io/badge/Aspecta-12100E?style=for-the-badge&logo=Aspecta&logoColor=white)](https://aspecta.id/u/david-wei-01001)
 
 <!--
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Research_Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]()
