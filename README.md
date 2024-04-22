@@ -98,6 +98,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R" />
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake" />
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
 </p>
 
 
