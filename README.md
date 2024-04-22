@@ -77,58 +77,58 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy&logocolor=Orange" />
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy&logocolor=FF6C5F" />
     <img alt="Scipy" src="https://img.shields.io/badge/Scipy-000?style=flat-square&logo=Scipy" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus" />
-    <img alt="C%23" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logocolor=00599C" />
+    <img alt="C%23" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logocolor=68217A" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
-    <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim" />
+    <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim&logocolor=019733" />
     <img alt="linux" src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
-    <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R" />
-    <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake" />
-    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex" />
+    <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logocolor=1976D2" />
+    <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logocolor=064F8C" />
+    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logocolor=008080" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
-    <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub"/>
+    <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana&logocolor=57068C"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logocolor=181717"/>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
     <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
     <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-000?style=flat-square&logo=googlecolab"/>
-    <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea"/>
-    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
-    <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json"/>
+    <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidealogocolor=019733"/>
+    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jiralogocolor=0052CC"/>
+    <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=jsonlogocolor=E34F26"/>
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
-    <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnulogocolor=885630"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvmlogocolor=3E6FB0"/>
     <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
-    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai"/>
-    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm"/>
+    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openailogocolor=49B1F5"/>
+    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharmlogocolor=21A40B"/>
     <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
-    <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider"/>
+    <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logocolor=FE7A15"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros"/>
+    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logocolor=22313F"/>
     <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
     <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
     <img alt="LLaMa 2" src="https://img.shields.io/badge/LLaMa 2-000?style=flat-square&logo=LLaMa 2"/>
     <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
-    <img alt="tradingview" src="https://img.shields.io/badge/Trading View-000?style=flat-square&logo=tradingview"/>
-    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode"/>
+    <img alt="tradingview" src="https://img.shields.io/badge/Trading View-000?style=flat-square&logo=tradingview&logocolor=2962FF"/>
+    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logocolor=007ACC"/>
     <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
-    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum"/>
+    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logocolor=3C3C3D"/>
     <img alt="shortcut" src="https://img.shields.io/badge/Shortcut-000?style=flat-square&logo=shortcut"/>
 </p>
 
