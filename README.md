@@ -74,64 +74,99 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
       
 ## 🧩 All Skills
 
+### Programming Languages
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy&logoColor=FF6C5F" />
-    <img alt="Scipy" src="https://img.shields.io/badge/Scipy-000?style=flat-square&logo=Scipy" />
-    <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
     <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C" />
     <img alt="C%23" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=68217A" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
-    <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim&logoColor=019733" />
-    <img alt="linux" src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
-    <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
-    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
-    <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana&logoColor=57068C"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
-    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
-    <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
-    <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-000?style=flat-square&logo=googlecolab"/>
-    <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea&logoColor=019733"/>
-    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
-    <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json&logoColor=E34F26"/>
-    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
-    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
-    <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm&logoColor=3E6FB0"/>
-    <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
-    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
-    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=21A40B"/>
-    <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
-    <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
-    <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
-    <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
+</p>
+    
+### Libraries and Frameworks
+
+<p>
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy&logoColor=FF6C5F" />
+    <img alt="Scipy" src="https://img.shields.io/badge/Scipy-000?style=flat-square&logo=Scipy" />
+    <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
+    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
+    <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json&logoColor=E34F26"/>
+    <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
-    <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
+</p>
+
+### Pretrained Models and AI Frameworks
+
+<p>
+    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
+    <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="LLaMa 2" src="https://img.shields.io/badge/LLaMa 2-000?style=flat-square&logo=LLaMa 2"/>
-    <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
+    <img alt="MovIt" src="https://img.shields.io/badge/MovIt-000?style=flat-square&logo=MovIt"/>
+    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
+</p>
+
+### Cloud Platforms and Services
+
+<p>
+     <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
+    <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-000?style=flat-square&logo=googlecolab"/>
+</p>
+
+### Softwares
+
+<p>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
     <img alt="tradingview" src="https://img.shields.io/badge/Trading View-000?style=flat-square&logo=tradingview&logoColor=2962FF"/>
-    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-    <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
-    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=C0C0C0"/>
+    <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana&logoColor=57068C"/>
+    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
+    <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
     <img alt="shortcut" src="https://img.shields.io/badge/Shortcut-000?style=flat-square&logo=shortcut"/>
 </p>
 
+### Development Tools and Editors
+
+<p>
+    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+    <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
+    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
+    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
+    <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea&logoColor=019733"/>
+    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=21A40B"/>
+    <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
+    <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
+    <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim&logoColor=019733" />
+     <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
+    <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
+    <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm&logoColor=3E6FB0"/>
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
+    <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
+</p>
+
+### Operating Systems and Command Line Tools
+
+<p>
+    <img alt="linux" src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
+    <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
+</p>
+
+### Web 3
+<p>
+    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=C0C0C0"/>
+</p>
 
 -----
 
