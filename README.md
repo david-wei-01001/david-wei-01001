@@ -113,12 +113,17 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
     <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    
+    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai"/>
+    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm"/>
+    <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
+    <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider"/>
+    <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
 </p>
 
 
