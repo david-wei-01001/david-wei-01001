@@ -80,11 +80,11 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=C++" />
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=C%2B%2B" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=C%23" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=f8e100" />
-    <img alt="CUDA" src="https://img.shields.io/badge/Cuda-000?style=flat-square&logo=cuda&logoColor=0089c9" />
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-000?style=flat-square&logo=CUDA&logoColor=0089c9" />
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
