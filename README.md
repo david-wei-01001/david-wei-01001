@@ -100,7 +100,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
     <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana&logoColor=57068C"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=181717"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
     <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
@@ -119,7 +119,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=22313F"/>
+    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
     <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
     <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
@@ -128,7 +128,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="tradingview" src="https://img.shields.io/badge/Trading View-000?style=flat-square&logo=tradingview&logoColor=2962FF"/>
     <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
     <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
-    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=3C3C3D"/>
+    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=C0C0C0"/>
     <img alt="shortcut" src="https://img.shields.io/badge/Shortcut-000?style=flat-square&logo=shortcut"/>
 </p>
 
