@@ -22,7 +22,7 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
+    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
@@ -107,7 +107,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
+    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json&logoColor=E34F26"/>
     <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
