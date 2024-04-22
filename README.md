@@ -129,7 +129,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode"/>
     <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
     <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum"/>
-    
+    <img alt="shortcut" src="https://img.shields.io/badge/Shortcut-000?style=flat-square&logo=shortcut"/>
 </p>
 
 
