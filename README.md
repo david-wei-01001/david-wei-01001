@@ -79,9 +79,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
-    <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=tensorflow" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=tensorflow" />
-    <img alt="C#" src="https://img.shields.io/badge/C#-000?style=flat-square&logo=tensorflow" />
+    <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=C++" />
+    <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=C%23" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="CUDA" src="https://img.shields.io/badge/Cuda-000?style=flat-square&logo=java&logoColor=0089c9" />
