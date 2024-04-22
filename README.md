@@ -119,11 +119,17 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros"/>
+    <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
+    <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
+    <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
+    <img alt="LLaMa 2" src="https://img.shields.io/badge/LLaMa 2-000?style=flat-square&logo=LLaMa 2"/>
+    <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
+    <img alt="tradingview" src="https://img.shields.io/badge/Trading View-000?style=flat-square&logo=tradingview"/>
+    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode"/>
+    <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
+    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum"/>
+    
 </p>
 
 
