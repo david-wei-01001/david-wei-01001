@@ -108,7 +108,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json"/>
-    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
+    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
 </p>
