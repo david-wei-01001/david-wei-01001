@@ -109,8 +109,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json"/>
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
-    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure"/>
-    <img alt="gnu" src="https://img.shields.io/badge/GNU\&GCC-000?style=flat-square&logo=gnu"/>
+    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
+    <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
