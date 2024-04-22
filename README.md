@@ -25,7 +25,6 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
@@ -33,6 +32,9 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" /><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
+    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
+    <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
 </p>
 
 ## 🔭 Current Endeavour
@@ -93,6 +95,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
+    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+    <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
+    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
+    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
 </p>
     
 ### Libraries and Frameworks
@@ -154,7 +160,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
     <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
     <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim&logoColor=019733" />
-     <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
+    <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm&logoColor=3E6FB0"/>
