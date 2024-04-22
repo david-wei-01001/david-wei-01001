@@ -99,7 +99,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake" />
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
-    <img alt="Elastic" src="https://img.shields.io/badge/Elastic-000?style=flat-square&logo=Elastic"/>
+    <img alt="kibana" src="https://img.shields.io/badge/Kibana-000?style=flat-square&logo=kibana"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub"/>
     <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
@@ -109,8 +109,16 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json"/>
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
-    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
-    <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira"/>
+    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure"/>
+    <img alt="gnu" src="https://img.shields.io/badge/GNU\&GCC-000?style=flat-square&logo=gnu"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    
 </p>
 
 
