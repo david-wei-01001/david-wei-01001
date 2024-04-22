@@ -17,15 +17,22 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
+    <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
+    <img alt="C%23" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=68217A" />
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
+    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
+    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
+    <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" /><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
 </p>
 
 ## 🔭 Current Endeavour
@@ -117,7 +124,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 ### Cloud Platforms and Services
 
 <p>
-     <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-000?style=flat-square&logo=googlecolab"/>
