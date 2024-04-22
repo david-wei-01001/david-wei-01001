@@ -76,7 +76,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch&logoColor=f8e100" />
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy" />
+    <img alt="Scipy" src="https://img.shields.io/badge/Scipy-000?style=flat-square&logo=Scipy" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=C" />
@@ -92,6 +94,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
+    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex" />
 </p>
 
 
