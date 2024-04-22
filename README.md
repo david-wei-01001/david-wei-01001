@@ -99,6 +99,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake" />
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker" />
+    <img alt="Elastic" src="https://img.shields.io/badge/Elastic-000?style=flat-square&logo=Elastic"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub"/>
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
+    <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-000?style=flat-square&logo=googlecolab"/>
+    <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea"/>
 </p>
 
 
