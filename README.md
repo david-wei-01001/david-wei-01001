@@ -87,7 +87,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=cuda&logoColor=0089c9" />
+    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=0089c9" />
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim" />
     <img alt="linux" src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
@@ -112,7 +112,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure DB-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
+    <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
     <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm"/>
