@@ -152,7 +152,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
     <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea&logoColor=019733"/>
-    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=21A40B"/>
+    <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=2A9DF4"/>
     <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
     <img alt="rstudio" src="https://img.shields.io/badge/RStudio-000?style=flat-square&logo=rstudio"/>
     <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim&logoColor=019733" />
