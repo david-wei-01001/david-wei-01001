@@ -57,7 +57,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 [![Reddit](https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Comprehensive_Task12/)
 [![Aspecta](https://img.shields.io/badge/Aspecta-12100E?style=for-the-badge&logo=Aspecta&logoColor=white)](https://aspecta.id/u/david-wei-01001)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DavidWei01001)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@davidwei01001)
 <!--
 
 
@@ -76,12 +76,17 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
+    <img alt="C" src="https://img.shields.io/badge/C-000?style=flat-square&logo=tensorflow" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat-square&logo=tensorflow" />
+    <img alt="C#" src="https://img.shields.io/badge/C#-000?style=flat-square&logo=tensorflow" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=javascript&logoColor=f8e100" />
+    <img alt="CUDA" src="https://img.shields.io/badge/Cuda-000?style=flat-square&logo=java&logoColor=0089c9" />
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
