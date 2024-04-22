@@ -95,10 +95,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
-    <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-    <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
-    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
 </p>
     
 ### Libraries and Frameworks
@@ -153,7 +150,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <p>
     <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
-    <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
     <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea&logoColor=019733"/>
     <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=21A40B"/>
