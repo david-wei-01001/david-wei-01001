@@ -83,9 +83,11 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=C%2B%2B" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=C%23" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=f8e100" />
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=cuda&logoColor=0089c9" />
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
+    <img alt="vim" src="https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim" />
+    <img alt="linux" src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
