@@ -159,7 +159,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="nano" src="https://img.shields.io/badge/Nano-000?style=flat-square&logo=nano"/>
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
-    <img alt="llvm" src="https://img.shields.io/badge/LLVM-000?style=flat-square&logo=llvm&logoColor=3E6FB0"/>
+    <img alt="lldb" src="https://img.shields.io/badge/lldb&gdb-000?style=flat-square&logo=lldb&logoColor=3E6FB0"/>
     <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
 </p>
