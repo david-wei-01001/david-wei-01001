@@ -38,7 +38,7 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
 </p>
 
 ## 🔭 Current Endeavour
-Currently, I'm diving deeper into the world of artificial intelligence, LLMs (Large Language Models), and security, seeking ways to blend these technologies with human-computer interaction to create impactful solutions.
+Currently, I'm analyzing vulnerabilities in speculative inference algorithms of LLMs (Large Language Models) by timing GPU executions and studying the possible runtime discriminations inherited from different kinds of proposed speculative inference algorithms.
 
 
 ## 🌱 My Life
