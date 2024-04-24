@@ -25,8 +25,8 @@ Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/QA Engineer at [Uken
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
-    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
+    <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
@@ -118,8 +118,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 ### Pretrained Models and AI Frameworks
 
 <p>
-    <img alt="openai" src="https://img.shields.io/badge/chatGPT4-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
-    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini"/>
+    <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="LLaMa 2" src="https://img.shields.io/badge/LLaMa 2-000?style=flat-square&logo=LLaMa 2"/>
     <img alt="MovIt" src="https://img.shields.io/badge/MovIt-000?style=flat-square&logo=MovIt"/>
