@@ -25,10 +25,10 @@ Gen AI Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Enginee
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
-    <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
-    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
+    <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
+    <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" /><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure Cloud-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
@@ -111,6 +111,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json&logoColor=E34F26"/>
+    <img alt="node" src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs"/>
     <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
     <img alt="createreactapp" src="https://img.shields.io/badge/Create React App-000?style=flat-square&logo=createreactapp"/>
@@ -155,6 +156,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="visualstudiocode" src="https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
     <img alt="git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-000?style=flat-square&logo=jupyter"/>
+     <img alt=".env" src="https://img.shields.io/badge/.env-000?style=flat-square&logo=dotenv"/>
+     <img alt="npm" src="https://img.shields.io/badge/Npm-000?style=flat-square&logo=npm"/>
     <img alt="intellijidea" src="https://img.shields.io/badge/Intellij-000?style=flat-square&logo=intellijidea&logoColor=019733"/>
     <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=2A9DF4"/>
     <img alt="rider" src="https://img.shields.io/badge/Rider-000?style=flat-square&logo=rider&logoColor=FE7A15"/>
