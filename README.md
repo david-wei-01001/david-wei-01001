@@ -35,6 +35,8 @@ Gen AI Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Enginee
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
     <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
+    <img alt=".env" src="https://img.shields.io/badge/.env-000?style=flat-square&logo=dotenv"/>
+     <img alt="npm" src="https://img.shields.io/badge/Npm-000?style=flat-square&logo=npm"/>
 </p>
 
 ## 🔭 Current Endeavour
@@ -167,7 +169,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
     <img alt="lldb" src="https://img.shields.io/badge/lldb&gdb-000?style=flat-square&logo=lldb&logoColor=3E6FB0"/>
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm" />
     <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
 </p>
 
