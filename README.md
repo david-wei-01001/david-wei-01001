@@ -27,10 +27,11 @@ Gen AI Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Enginee
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
     <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" /><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure Cloud-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=GitHub&logoColor=BBBBBB"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
