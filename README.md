@@ -7,7 +7,7 @@
 Undergraduate at the [University of Toronto](https://www.utoronto.ca/), Computer Science Specialist\
 Gen AI Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Engineer at [Uken Games Inc.](https://uken.com/)
 ----
-**Gen AI Researcher | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
+**Researcher on LLM | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
 > With which I sail through my years, on the tides of ceaseless change
