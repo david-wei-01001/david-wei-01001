@@ -33,11 +33,10 @@ Gen AI Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Enginee
     <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
     <img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-000?style=flat-square&logo=googlecloud"/>
+    <img alt="panda" src="https://img.shields.io/badge/pandas-000?style=flat-square&logo=pandas"/>
     <img alt="microsoftazure" src="https://img.shields.io/badge/Azure Cloud-000?style=flat-square&logo=microsoftazure&logoColor=1297fb"/>
     <img alt="jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC"/>
     <img alt="testrail" src="https://img.shields.io/badge/Test Rail-000?style=flat-square&logo=testrail"/>
-    <img alt=".env" src="https://img.shields.io/badge/.env-000?style=flat-square&logo=dotenv"/>
-     <img alt="npm" src="https://img.shields.io/badge/Npm-000?style=flat-square&logo=npm"/>
 </p>
 
 ## 🔭 Current Endeavour
@@ -117,6 +116,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="node" src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs"/>
     <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit Learn-000?style=flat-square&logo=scikitlearn"/>
+    <img alt="panda" src="https://img.shields.io/badge/pandas-000?style=flat-square&logo=pandas"/>
     <img alt="createreactapp" src="https://img.shields.io/badge/Create React App-000?style=flat-square&logo=createreactapp"/>
     <img alt="Alt Unity Tester" src="https://img.shields.io/badge/Alt Unity Tester-000?style=flat-square&logo=altunitytester"/>
 </p>
