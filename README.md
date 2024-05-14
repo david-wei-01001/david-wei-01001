@@ -53,7 +53,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 **Fun fact:** When I'm not coding 💻 or buried in textbooks 📖, you'll find me lost in the world of books 📚 and cooking 🍳.
 
 
-## 🧲 What Attracts Me <img width="300px" align="right" alt="NUKE" src="./Asset/Jensen.jpeg"/>
+## 🧲 ~~What Attracts Me~~ "HER" IS COMMING!!!
+
 - AI, gen AI, LLMs, CV, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
