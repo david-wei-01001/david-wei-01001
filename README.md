@@ -55,6 +55,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 ## 🧲 ~~What Attracts Me~~ "HER" IS COMMING!!!
 
+[![ChatGPT4o](Asset/RIP.png)](https://www.youtube.com/watch?v=DQacCB9tDaw)
+
+
 - AI, gen AI, LLMs, CV, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
