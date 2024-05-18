@@ -65,9 +65,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   
 ## 📬 How to Contact Me:
 
-<!--
 <div align="center">
--->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wei-7a3486280/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/david-wei-01001)
@@ -77,11 +75,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 [![Aspecta](https://img.shields.io/badge/Aspecta-12100E?style=for-the-badge&logo=Aspecta&logoColor=white)](https://aspecta.id/u/david-wei-01001)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DavidWei01001)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@davidwei01001)
-
-<details>
-  <summary>Discord</summary>
-    davidwei01001
-</details>
 
 <!--
 
@@ -94,7 +87,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   
 </div>
 
-
+<details>
+  <summary>Discord</summary>
+    davidwei01001
+</details>
       
       
 ## 🧩 All Skills
