@@ -76,7 +76,10 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DavidWei01001)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@davidwei01001)
 
-### Discord: davidwei01001
+<details>
+  <summary>Discord</summary>
+    davidwei01001
+</details>
 <!--
 
 
