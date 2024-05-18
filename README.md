@@ -174,7 +174,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="CMake" src="https://img.shields.io/badge/CMake-000?style=flat-square&logo=CMake&logoColor=violet" />
     <img alt="gnu" src="https://img.shields.io/badge/GNU&GCC-000?style=flat-square&logo=gnu&logoColor=885630"/>
     <img alt="lldb" src="https://img.shields.io/badge/lldb&gdb-000?style=flat-square&logo=lldb&logoColor=3E6FB0"/>
-    <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
 </p>
 
 ### Operating Systems and Command Line Tools
