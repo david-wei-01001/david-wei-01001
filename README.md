@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 # Hi there 👋, I'm David Wei!
 
 <!--
@@ -207,6 +211,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <p align="center">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
+<a> <img src="https://streak-stats.demolab.com/?user=david-wei-01001&count_private=true&theme=blue-green&title_color=00b3ff"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=david-wei-01001&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
@@ -229,3 +234,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 ----------------
 
 [🤔](https://david-wei-01001.github.io/Some-Jewels/)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
