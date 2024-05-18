@@ -205,13 +205,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=dracula&langs_count=14"  width=38% alt="@Goblin's wakatime stats"/></a>
+<a href="https://wakatime.com/@Goblin8888"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=dracula&langs_count=14"  width=58% alt="@Goblin's wakatime stats"/></a>
 <a> <img height="200" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=dracula&include_all_commits=true" width=38%/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=david-wei-01001&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./Asset/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
 
