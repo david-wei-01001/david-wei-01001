@@ -185,6 +185,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
     <img alt="pshell" src="https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell"/>
     <img alt="windowsterm" src="https://img.shields.io/badge/Windows Terminal-000?style=flat-square&logo=windowsterminal&logoColor=4D4D4D"/>
+    <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
 </p>
 
 ### Web 3
