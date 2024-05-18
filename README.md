@@ -184,8 +184,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Bash" src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash"/>
     <img alt="zsh" src="https://img.shields.io/badge/Zsh-000?style=flat-square&logo=zsh"/>
     <img alt="pshell" src="https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell"/>
-    <img alt="windows" src="https://img.shields.io/badge/Windows 11-000?style=flat-square&logo=windows11"/>
-    <img alt="windowsterm" src="https://img.shields.io/badge/Windows Terminal-000?style=flat-square&logo=windowsterminal"/>
+    <img alt="windowsterm" src="https://img.shields.io/badge/Windows Terminal-000?style=flat-square&logo=windowsterminal&logoColor=4D4D4D"/>
 </p>
 
 ### Web 3
