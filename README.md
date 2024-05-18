@@ -205,8 +205,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 </p>
 
 <p align="center">
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=dracula"/>
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=dracula&include_all_commits=true"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
 <a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=david-wei-01001&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
