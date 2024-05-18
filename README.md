@@ -223,16 +223,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-
- <br>
- <br>
- <p align="center">
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=dracula"/>
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=dracula&include_all_commits=true"/>
-
-
-  </P><br>
-  
  
  
  
