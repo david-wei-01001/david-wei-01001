@@ -63,7 +63,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 - Robotics
 - [Tactical Nuclear Visual Cards](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
   
-<h2 align="left">📬 How to Contact Me:</h2>
+## 📬 How to Contact Me:
 
 <div align="center">
 
@@ -75,6 +75,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 [![Aspecta](https://img.shields.io/badge/Aspecta-12100E?style=for-the-badge&logo=Aspecta&logoColor=white)](https://aspecta.id/u/david-wei-01001)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DavidWei01001)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@davidwei01001)
+
+### Discord: davidwei01001
 <!--
 
 
