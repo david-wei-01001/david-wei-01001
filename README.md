@@ -65,7 +65,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   
 ## 📬 How to Contact Me:
 
+<!--
 <div align="center">
+-->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wei-7a3486280/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/david-wei-01001)
@@ -80,6 +82,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
   <summary>Discord</summary>
     davidwei01001
 </details>
+
 <!--
 
 
