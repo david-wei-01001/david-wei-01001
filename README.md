@@ -209,7 +209,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=ambient_gradient&include_all_commits=true" width="58%"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=ambient_gradient&include_all_commits=true" width="38%"/>
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
 <img height="200" src="https://streak-stats.demolab.com/?user=david-wei-01001&count_private=true&theme=ambient_gradient&title_color=00b3ff"  width="250%"/>
 
