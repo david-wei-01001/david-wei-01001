@@ -112,6 +112,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
     <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
+     <img alt="Prolog" src="https://img.shields.io/badge/Prolog-000?style=flat-square&logo=prolog"/>
 </p>
     
 ### Libraries and Frameworks
