@@ -132,7 +132,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="createreactapp" src="https://img.shields.io/badge/Create React App-000?style=flat-square&logo=createreactapp"/>
     <img alt="Alt Unity Tester" src="https://img.shields.io/badge/Alt Unity Tester-000?style=flat-square&logo=altunitytester"/>
 
+<!--
      <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
+-->
 </p>
 
 ### Pretrained Models and AI Frameworks
