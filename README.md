@@ -142,7 +142,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <p>
     <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
-     <img alt="LLaMA" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=llama"/>
+     <img alt="LLaMA" src="https://img.shields.io/badge/LLaMa-000?style=flat-square&logo=llama"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MovIt" src="https://img.shields.io/badge/MovIt-000?style=flat-square&logo=MovIt"/>
     <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
