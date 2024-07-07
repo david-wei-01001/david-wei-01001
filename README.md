@@ -26,7 +26,7 @@ Researcher in Gen AI at [Department of Computer Science](https://web.cs.toronto.
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
+    <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f8e100" />
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
@@ -124,7 +124,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
-    <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
     <img alt="json" src="https://img.shields.io/badge/Json-000?style=flat-square&logo=json&logoColor=E34F26"/>
     <img alt="node" src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs"/>
     <img alt="pytest" src="https://img.shields.io/badge/PyTest-000?style=flat-square&logo=pytest"/>
@@ -132,6 +131,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="panda" src="https://img.shields.io/badge/pandas-000?style=flat-square&logo=pandas&logoColor=006600"/>
     <img alt="createreactapp" src="https://img.shields.io/badge/Create React App-000?style=flat-square&logo=createreactapp"/>
     <img alt="Alt Unity Tester" src="https://img.shields.io/badge/Alt Unity Tester-000?style=flat-square&logo=altunitytester"/>
+
+     <img alt="CUDA" src="https://img.shields.io/badge/cuda-000?style=flat-square&logo=nvidia&logoColor=90EE90" />
 </p>
 
 ### Pretrained Models and AI Frameworks
@@ -139,8 +140,8 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 <p>
     <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
+     <img alt="LLaMA" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=llama"/>
     <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
-    <img alt="LLaMa 2" src="https://img.shields.io/badge/LLaMa 2-000?style=flat-square&logo=LLaMa 2"/>
     <img alt="MovIt" src="https://img.shields.io/badge/MovIt-000?style=flat-square&logo=MovIt"/>
     <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
 </p>
