@@ -45,7 +45,7 @@ Researcher in Gen AI at [Department of Computer Science](https://web.cs.toronto.
 
 ## 🔭 Current Endeavour
 
-- Currently, I'm analyzing vulnerabilities in speculative inference algorithms of LLMs (Large Language Models) by timing GPU executions and studying the possible runtime discriminations inherited from different kinds of proposed speculative inference algorithms.
+- Currently, I'm analyzing vulnerabilities in speculative decoding algorithms of LLMs (Large Language Models) by timing GPU executions and studying the possible runtime discriminations inherited from different kinds of proposed speculative inference algorithms.
 
 - I am also continuing my work in MEDCVR on using LLMs to manipulate Robotics on fine-details with error detection and fault tolerance.
 
