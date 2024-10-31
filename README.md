@@ -121,6 +121,7 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-000?style=flat-square&logo=Pytorch" />
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000?style=flat-square&logo=Numpy&logoColor=FF6C5F" />
     <img alt="Scipy" src="https://img.shields.io/badge/Scipy-000?style=flat-square&logo=Scipy" />
+     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=OpenCV" />
     <img alt="React" src="https://img.shields.io/badge/React-000?style=flat-square&logo=React" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity" />
