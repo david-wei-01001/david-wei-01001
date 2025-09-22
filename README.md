@@ -8,10 +8,10 @@
 **david-wei-01001/david-wei-01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Undergraduate at the [University of Toronto](https://www.utoronto.ca/), Computer Science Specialist\
-Researcher in Gen AI at [Department of Computer Science](https://web.cs.toronto.edu/)/Robotics Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)/Ex-QA Engineer at [Uken Games Inc.](https://uken.com/)
+Phd Candidate at the [University of Toronto](https://www.utoronto.ca/), Spoken Language Processing\ Bachelor inComputer Science\
+Researcher in Gen AI at [Department of Computer Science](https://web.cs.toronto.edu/)/Robotics Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)
 ----
-**Researcher in Genrative AI | Robotics | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
+**Researcher in Speech, Genrative AI | Robotics | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
 > With which I sail through my years, on the tides of ceaseless change
