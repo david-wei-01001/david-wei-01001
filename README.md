@@ -199,10 +199,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 -----
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-wei-01001&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
+</p> -->
+<p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-wei-01001&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
 <p align="center">
@@ -216,13 +219,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./Asset/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
-
-
-
-
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{david-wei-01001}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
