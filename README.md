@@ -208,13 +208,13 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-wei-01001&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=david-wei-01001&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-wei-01001&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
 <img height="250" src="https://streak-stats.demolab.com/?user=david-wei-01001&count_private=true&theme=ambient_gradient&title_color=00b3ff" width="60%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=david-wei-01001&theme=onestar&no-frame=true&column=3&row=2"/>
  
-</p>
+</p> -->
 
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./Asset/colored.png"  width="100%" alt="python3_online_compiler"/></a>
