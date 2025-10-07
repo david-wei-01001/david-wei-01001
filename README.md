@@ -142,7 +142,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="openai" src="https://img.shields.io/badge/OpenAI API-000?style=flat-square&logo=openai&logoColor=49B1F5"/>
     <img alt="googlegemini" src="https://img.shields.io/badge/Gemini API-000?style=flat-square&logo=googlegemini"/>
      <img alt="LLaMA" src="https://img.shields.io/badge/LLaMa-000?style=flat-square&logo=llama"/>
-    <img alt="Detectron 2" src="https://img.shields.io/badge/Detectron 2-000?style=flat-square&logo=Detectron 2"/>
     <img alt="MovIt" src="https://img.shields.io/badge/MovIt-000?style=flat-square&logo=MovIt"/>
     <img alt="ros" src="https://img.shields.io/badge/ROS-000?style=flat-square&logo=ros&logoColor=C0C0C0"/>
 </p>
@@ -196,11 +195,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="pshell" src="https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell"/>
     <img alt="windowsterm" src="https://img.shields.io/badge/Windows Terminal-000?style=flat-square&logo=windowsterminal&logoColor=4D4D4D"/>
     <img alt="tmux" src="https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux"/>
-</p>
-
-### Web 3
-<p>
-    <img alt="ethereum" src="https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=C0C0C0"/>
 </p>
 
 -----
