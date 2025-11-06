@@ -108,7 +108,6 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
     <img alt="R" src="https://img.shields.io/badge/R-000?style=flat-square&logo=R&logoColor=1976D2" />
-    <img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS Assembly-000?style=flat-square&logo=MIPS Assembly"/>
     <img alt="Latex" src="https://img.shields.io/badge/Latex-000?style=flat-square&logo=Latex&logoColor=064F8C" />
      <img alt="Prolog" src="https://img.shields.io/badge/Prolog-000?style=flat-square&logo=prolog"/>
 </p>
