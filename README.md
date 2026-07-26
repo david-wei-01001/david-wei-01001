@@ -8,7 +8,7 @@
 **david-wei-01001/david-wei-01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Msc student at the [CLNLP Lab, University of Toronto](https://www.cs.toronto.edu/compling/)/AI Privacy & Security Researcher at [SysNet](https://csng.cs.toronto.edu/)
+Incoming PhD student at the [CLNLP Lab, University of Toronto](https://www.cs.toronto.edu/compling/)/AI Privacy & Security Researcher at [SysNet](https://csng.cs.toronto.edu/)
 ----
 **Researcher in Spoken Language Processing | AI Privacy & Security | Tech Enthusiast | Book Lover | Amateur Philosopher**
 
