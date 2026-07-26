@@ -8,9 +8,9 @@
 **david-wei-01001/david-wei-01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Msc student at the [University of Toronto](https://www.utoronto.ca/), Spoken Language Processing/Bachelor in Computer Science/Ex-Robotics Researcher at [MEDCVR lab](https://medcvr.utm.utoronto.ca/)
+Msc student at the [Computational Linguistics and Natural Language Computing Lab, University of Toronto](https://www.cs.toronto.edu/compling/)/AI Privacy & Security Researcher at [SysNet](https://csng.cs.toronto.edu/)
 ----
-**Researcher in Speech, Genrative AI | Robotics | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
+**Researcher in Spoken Language Processing | AI Privacy & Security | Tech Enthusiast | Book Lover | Amateur Philosopher**
 
 > May my knowledge grow as trees, and my thoughts shed as leaves\
 > With which I sail through my years, on the tides of ceaseless change
