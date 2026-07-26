@@ -43,9 +43,9 @@ Msc student at the [CLNLP Lab, University of Toronto](https://www.cs.toronto.edu
 
 ## 🔭 Current Endeavour
 
-- Currently, I'm analyzing vulnerabilities in speculative decoding algorithms of LLMs (Large Language Models) by timing GPU executions and studying the possible runtime discriminations inherited from different kinds of proposed speculative inference algorithms.
+- **Systems Security in LLMs:** Discovering novel side-channel vulnerabilities in speculative decoding algorithms, demonstrating how observable metrics like packet size and timing can leak private user queries and retrieval-datastore contents.
 
-- I am also continuing my work in MEDCVR on using LLMs to manipulate Robotics on fine-details with error detection and fault tolerance.
+- **Audio Security & Voice Privacy:** Preparing for my upcoming doctoral research by applying circuit-level interpretability to speech foundation models (HuBERT, Wav2Vec 2.0) to stress-test anti-spoofing detectors and audio watermarks against adversarial attacks.
 
 ## 🌱 My Life
 My life journey always goes out of plan, but I'm surviving it!!! 🚴‍♂️💪\
@@ -54,16 +54,17 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 \
 **Fun fact:** When I'm not coding 💻 or buried in textbooks 📖, you'll find me lost in the world of books 📚 and cooking 🍳.
 
-
+<!--
 ## 🧲 ~~What Attracts Me~~ "HER" IS COMMING!!!
 
 [![ChatGPT4o](Asset/genAI.jpg)](https://www.youtube.com/watch?v=DQacCB9tDaw)
+-->
 
 
 - AI, gen AI, LLMs, CV, anything about AI
 - Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
 - Robotics
-- [Tactical Nuclear Visual Cards](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
+- [Tactical Nuclear GPU](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
   
 ## 📬 How to Contact Me:
 
