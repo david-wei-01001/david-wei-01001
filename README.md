@@ -61,9 +61,9 @@ Unexpected tasks are opportunities for me to improve, be receptive, and be optim
 -->
 
 
-- AI, gen AI, LLMs, CV, anything about AI
-- Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
-- Robotics
+- AI, gen AI, LLMs, Spoken Language Processing, anything about AI
+- AI Privacy & Security ([who doesn't want to be a hacker?](https://www.youtube.com/watch?v=3v5Von-oNUg))
+- Embodied Intelligence with native speech/communication capabilities
 - [Tactical Nuclear GPU](https://www.bilibili.com/video/BV1zs411o7aD/?spm_id_from=333.337.search-card.all.click)
   
 ## 📬 How to Contact Me:
