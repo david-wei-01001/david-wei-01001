@@ -43,9 +43,9 @@ Msc student at the [CLNLP Lab, University of Toronto](https://www.cs.toronto.edu
 
 ## 🔭 Current Endeavour
 
-- **Systems Security in LLMs:** Discovering novel side-channel vulnerabilities in speculative decoding algorithms, demonstrating how observable metrics like packet size and timing can leak private user queries and retrieval-datastore contents.
-
 - **Audio Security:** Preparing for my upcoming doctoral research by applying circuit-level interpretability to speech foundation models (HuBERT, Wav2Vec 2.0) to stress-test anti-spoofing detectors and audio watermarks against adversarial attacks.
+  
+- **Systems Security in LLMs:** Discovering novel side-channel vulnerabilities in speculative decoding algorithms, demonstrating how observable metrics like packet size and timing can leak private user queries and retrieval-datastore contents.
 
 - **Voice Privacy:** Speaker Biometrics, voice anonymity, attack and defence
 
