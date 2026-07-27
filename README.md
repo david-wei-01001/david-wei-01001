@@ -1,6 +1,13 @@
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hetansh%20Shah&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mechanistic%20Interpretability%20%7C%20UMass%20Amherst%202025&descAlignY=58&descSize=18" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Using+ML+to+think+about+thinking;Mech+Interp+researcher;Building+tools+that+reason" alt="Typing SVG" />
+  </a>
+</div>
+
 
 # Hi there 👋, I'm David Wei!
 
